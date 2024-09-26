@@ -9,4 +9,5 @@ public class Exercise14 {
         Doctor d = new Doctor("Gregory", "House", "Nefrología e Infectología");
     }
 
+
 }
